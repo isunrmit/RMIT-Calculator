@@ -8,3 +8,7 @@ target/classes/edu/au/rmit/ct/MyCalculator.class
 target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
 target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
 target/test-classes/edu/au/rmit/ct/MyCalculatorTest.class
+/target/
+.classpath
+.project
+*.prefs
