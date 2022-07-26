@@ -12,3 +12,4 @@ target/test-classes/edu/au/rmit/ct/MyCalculatorTest.class
 .classpath
 .project
 *.prefs
+.idea/workspace.xml
