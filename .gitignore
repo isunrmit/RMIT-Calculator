@@ -2,11 +2,14 @@
 ### Java ###
 # Compiled class file
 *.class
+/target/
 
+# intellij
 .idea/
 .settings/
-/target/
-.classpath
-.project
 *.prefs
 *.iml
+
+# eclipse
+.classpath
+.project
