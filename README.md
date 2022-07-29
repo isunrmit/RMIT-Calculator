@@ -2,7 +2,7 @@
 
 ### Week 3/4 Prac Junit Exercise 
 
-##### Junit: "Never in the field of software development have so many owed so much to so few lines of code" (Martin Fowler)
+##### "Never in the field of software development have so many owed so much to so few lines of code" (Martin Fowler)
 
 #### Objectives
 These prac exercises are focussed on Junit 5 and are pitched to students with some minimal exposure to unit testing in earlier courses. 
