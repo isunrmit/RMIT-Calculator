@@ -22,10 +22,10 @@ Other objectives include using Junit to:-
 
 Get ready with a recent/latest version of Eclipse or IntelliJ and java compiler version and using provided maven dependencies.
 
-#### Tasks
+#### Week 3 Tasks
 
 * Once your IDE is set up, clone or download the code. The MyCalculator class implements the Calculator interface, and there is one test class. Note their folder locations.
-* (Do further work in your own environment - no pull requests expected or necessary)
+* Continue your work in your own environment - no pull requests expected or necessary
 * See if you can run the Java Application (should have no output) and then the Junit Test (should have one fail)
 * Review the commented out test functions in MyCalculatorTest.java to get you started with some ideas.
 * Start writing test cases using those suggested test function names, or rename as required.
