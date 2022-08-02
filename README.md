@@ -42,4 +42,3 @@ Get ready with a recent/latest version of Eclipse or IntelliJ and java compiler 
 * https://i.gyazo.com/5257c88eca4cedd12be1a15569bf4741.png (IntelliJ screenshot showing bug in expected value of addIntegers method)
 * https://www.javaguides.net/p/junit-5.html
 * https://dzone.com/articles/writing-tests-with-junit-5 ((IDEA-focussed intro from IDEA writer))
-* (more to be added)
