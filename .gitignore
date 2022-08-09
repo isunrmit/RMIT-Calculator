@@ -13,3 +13,13 @@
 # eclipse
 .classpath
 .project
+#*.java
+src/main/java/edu/au/rmit/ct/MyCalculator.java
+src/test/java/edu/au/rmit/ct/MyCalculatorTest.java
+src/main/java/edu/au/rmit/ct/MyCalculator.java
+src/test/java/edu/au/rmit/ct/MyCalculatorTest.java
+src/test/java/edu/au/rmit/ct/MyCalculatorTestClassDemo.java
+src/test/java/edu/au/rmit/ct/MySecondCalculatorTestClassDemo.java
+src/test/java/edu/au/rmit/ct/MySecondCalculatorTestClassDemo_soln.java
+src/test/java/edu/au/rmit/ct/MyCalculatorTest.java
+src/test/java/edu/au/rmit/ct/MyCalculatorW3Test.java
