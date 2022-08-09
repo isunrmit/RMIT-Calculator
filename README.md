@@ -2,7 +2,7 @@
 
 ### Week 3/4 Prac Junit Exercise 
 
-##### Junit: "Never in the field of software development have so many owed so much to so few lines of code" (Martin Fowler)
+##### "Never in the field of software development have so many owed so much to so few lines of code" (Martin Fowler)
 
 #### Objectives
 These prac exercises are focussed on Junit 5 and are pitched to students with some minimal exposure to unit testing in earlier courses. 
@@ -22,10 +22,10 @@ Other objectives include using Junit to:-
 
 Get ready with a recent/latest version of Eclipse or IntelliJ and java compiler version and using provided maven dependencies.
 
-#### Tasks
+#### Week 3 Tasks
 
 * Once your IDE is set up, clone or download the code. The MyCalculator class implements the Calculator interface, and there is one test class. Note their folder locations.
-* (Do further work in your own environment - no pull requests expected or necessary)
+* Continue your work in your own environment - no pull requests expected or necessary
 * See if you can run the Java Application (should have no output) and then the Junit Test (should have one fail)
 * Review the commented out test functions in MyCalculatorTest.java to get you started with some ideas.
 * Start writing test cases using those suggested test function names, or rename as required.
@@ -42,4 +42,3 @@ Get ready with a recent/latest version of Eclipse or IntelliJ and java compiler 
 * https://i.gyazo.com/5257c88eca4cedd12be1a15569bf4741.png (IntelliJ screenshot showing bug in expected value of addIntegers method)
 * https://www.javaguides.net/p/junit-5.html
 * https://dzone.com/articles/writing-tests-with-junit-5 ((IDEA-focussed intro from IDEA writer))
-* (more to be added)
