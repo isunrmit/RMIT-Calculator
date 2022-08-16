@@ -1,11 +1,16 @@
 package edu.au.rmit.ct;
 
+// Tasks for Week 5
+// 1. Ordering by method name, and order annotation
+// 2. Export to report
+// 3. Check message of exception thrown
+// 4. AAA
+
 import org.junit.jupiter.api.*;
-
-
 import static org.junit.jupiter.api.Assertions.*;
 // @TestMethodOrder(MethodOrderer.MethodName.class)
 // @TestMethodOrder(MethodOrderer.OrderAnnotation.class)
+
 class MySecondCalculatorTestW5 {
 
     @Test
