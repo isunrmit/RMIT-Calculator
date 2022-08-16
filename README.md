@@ -45,3 +45,7 @@ Check test files in src/test/java/edu/au/rmit/ct
 * https://i.gyazo.com/5257c88eca4cedd12be1a15569bf4741.png (IntelliJ screenshot showing bug in expected value of addIntegers method)
 * https://www.javaguides.net/p/junit-5.html
 * https://dzone.com/articles/writing-tests-with-junit-5 ((IDEA-focussed intro from IDEA writer))
+* AAA approach (ref coming soon)
+  * https://gyazo.com/1ad76f908944dc75dc90317afb78e2c6
+  * https://gyazo.com/47c31a376c9034f8f897cd4ec6efe418
+  * https://gyazo.com/2d9a4b4e9aa1d111a2e89a0f15b197b7 
