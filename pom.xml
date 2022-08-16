@@ -17,7 +17,17 @@
         </plugins>
     </build>
  <dependencies>
-        <dependency>
+
+     <!-- added this new dependency -->
+     <dependency>
+         <groupId>org.junit.jupiter</groupId>
+         <artifactId>junit-jupiter</artifactId>
+         <version>5.9.0</version>
+         <scope>test</scope>
+     </dependency>
+
+<!-- Replaced with above dependency
+       <dependency>
             <groupId>org.junit.jupiter</groupId>
             <artifactId>junit-jupiter-api</artifactId>
             <version>5.8.2</version>
@@ -30,6 +40,12 @@
             <version>5.8.2</version>
             <scope>test</scope>
         </dependency>
-
+        -->
     </dependencies>
+    <!-- Added new project property -->
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+    </properties>
+
 </project>
