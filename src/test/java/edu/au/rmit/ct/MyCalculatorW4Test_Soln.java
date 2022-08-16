@@ -55,7 +55,7 @@ public class MyCalculatorW4Test_Soln {
     @DisplayName("Check Exception thrown when calling Constructor with reserved ID number (999)")
     void checkExceptionThrownConstructor() throws Exception {
         // Extra extension question.
-        fail("not implemented yet");
+        fail("not implemented yet"); // yet
 
      }
 }
