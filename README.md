@@ -1,6 +1,6 @@
 ## RMIT Software Testing ISYS1085 / ISYS1087
 
-### Week 3/4 Prac Junit Exercise 
+### Week 4/5 Prac Junit Exercise 
 
 ##### "Never in the field of software development have so many owed so much to so few lines of code" (Martin Fowler)
 
@@ -22,7 +22,7 @@ Other objectives include using Junit to:-
 
 Get ready with a recent/latest version of Eclipse or IntelliJ and java compiler version and using provided maven dependencies.
 
-#### Week 3 Tasks
+#### Week 4/5 Tasks
 
 * Once your IDE is set up, clone or download the code. The MyCalculator class implements the Calculator interface, and there is one test class. Note their folder locations.
 * Continue your work in your own environment - no pull requests expected or necessary
@@ -34,13 +34,17 @@ Get ready with a recent/latest version of Eclipse or IntelliJ and java compiler 
 * Consider where you expect a null or not-null return or condition.
 * Consider what Exceptions might be thrown by one or more of the calculator functions, and write a test method to check for that.
 
-#### Week 4 and 5 Tasks
-Check test files in src/test/java/edu/au/rmit/ct
-
-* AAA approach (ref coming soon)
+* AAA approach 
   * https://gyazo.com/1ad76f908944dc75dc90317afb78e2c6
   * https://gyazo.com/47c31a376c9034f8f897cd4ec6efe418
   * https://gyazo.com/2d9a4b4e9aa1d111a2e89a0f15b197b7
+
+#### Week 6 Tasks
+The class instructor will do a live demo of sample code for the following:
+* Write a test case for general and specific exception thrown in the test object.
+* Write a test case for checking exception message.
+* Order your test cases by method name, and then by specified numerical ordering.
+* Write test case which checks how long before a method execution times out.
 
 #### References
 
